@@ -1,0 +1,4 @@
+<Files "b2b-trello-cron.php">
+Order Allow,Deny
+Deny from all
+</Files>
